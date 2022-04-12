@@ -1,0 +1,41 @@
+
+Planet		X	Y	Z	Weight	Profit	
+Planet_A	118	118	118	0		0
+Planet_B	181	181	181	10		100
+Planet_C	812	812	812	14		200
+Planet_D	120	120	125	15		130
+Planet_E	203	203	254	8		90
+Planet_F	33	31	544	15		170
+Planet_G	333	314	444	10		140
+Planet_H	333	145	444	6		70
+Planet_I	331	451	441	11		80
+Planet_J	311	511	411	9		110
+
+
+
+---------------Distance between planets using MAP 2---------------
+Planet_A to Planet_B = 109
+Planet_A to Planet_C = 1202
+
+Planet_B to Planet_F = 419
+Planet_B to Planet_G = 331
+
+Planet_C to Planet_D = 1195
+Planet_C to Planet_E = 1026
+
+Planet_D to Planet_H = 384
+Planet_D to Planet_I = 503
+
+Planet_E to Planet_F = 377
+Planet_E to Planet_H = 237
+
+Planet_F to Planet_J = 570
+
+Planet_G to Planet_I = 137
+Planet_G to Planet_J = 200
+
+Planet_H to Planet_I = 306
+
+
+Planet_J to Planet_I = 70
+
